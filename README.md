@@ -4,7 +4,7 @@
 ## PONTIFICIA UNIVERSIDAD JAVERIANA
 ### Procesamiento de Alto Volumen de Datos
 
-**Fecha:** 9 DE Agosto de 2026
+**Fecha:** 9 De Agosto de 2026
 
 **Autor:** Sergio Samuel Clavijo López
 
